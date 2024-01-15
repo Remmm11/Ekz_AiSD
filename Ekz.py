@@ -16,4 +16,4 @@ for i in range(n):
         min_sum = sum_str
         index = i
 
-print(f'Строка с минимальной нечётной суммой элементов: {matrix[index][1,]}\nСумма строки: {min_sum}')
+print(f'Строка с минимальной нечётной суммой элементов: {matrix[index]]} Сумма строки: {min_sum}')
